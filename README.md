@@ -137,7 +137,7 @@ Puedes consultar mi CV en este repositorio.
 
 Archivo recomendado:
 
-`CV-Gerson-Raul-Chuco.pdf`
+[Descargar CV](./CV-Gerson-Raul-Chuco.pdf)
 
 ---
 
