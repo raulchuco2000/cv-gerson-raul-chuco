@@ -19,7 +19,7 @@ Actualmente estoy orientando mi carrera hacia Cloud Engineering, desarrollando p
 ## Experiencia profesional
 
 ### Grupo Lactalis — Ingeniero de Soporte IT L2-L3
-**Madrid | Noviembre 2025 – Actualidad**
+**Madrid | Noviembre 2025 – Febrero 2026**
 
 - Soporte técnico avanzado L2-L3 en entornos empresariales.
 - Administración de Active Directory: usuarios, permisos y políticas de seguridad.
