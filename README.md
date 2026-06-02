@@ -85,11 +85,10 @@ Actualmente estoy orientando mi carrera hacia Cloud Engineering, desarrollando p
 
 ## Formación
 
-### Universidad Señor de Sipán — Perú
-**Ingeniería de Sistemas | 2017 – 2022**
+### Especialización en Cloud & Data Engineering Tajamar — Madrid
+**Cloud & Developer | 2026**
 
-### Especialización en Cloud & Data Engineering
-**Madrid | 2026**
+Formación especializada en Cloud Computing y desarrollo, con enfoque en Microsoft Azure, automatización, infraestructura, programación y despliegue de soluciones tecnológicas.
 
 ---
 
