@@ -96,7 +96,8 @@ Formación especializada en Cloud Computing y desarrollo, con enfoque en Microso
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-
+- Microsoft 365 Copilot and Agent Administration Fundamentals (AB-900)– Microsoft
+  
 ### Certificaciones en progreso
 
 - Azure Administrator (AZ-104)
